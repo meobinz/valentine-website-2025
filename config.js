@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Em còn giận anh khônggg?",                                    // First interaction
+            text: "Em có thấy người làm ra trang web này cực kỳ đáng thương và đang hối lỗi khônggg??",                                    // First interaction
             yesBtn: "Có",                                             // Text for "Yes" button
             noBtn: "Không",                                               // Text for "No" button
             secretAnswer: "Hết dỗi rồi thì mới thấy được dòng chữ này, yêu anh nhất đúng không ❤️"           // Secret hover message
